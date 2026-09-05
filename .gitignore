@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
